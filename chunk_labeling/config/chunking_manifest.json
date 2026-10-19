@@ -1,0 +1,59 @@
+[
+  {
+    "company": "alphabet",
+    "n_chunks": 64,
+    "sections": [
+      {
+        "section": "item_1_business",
+        "n_chunks": 16,
+        "n_subsections": 15,
+        "avg_chunk_chars": 1431
+      },
+      {
+        "section": "item_7_mdna",
+        "n_chunks": 48,
+        "n_subsections": 38,
+        "avg_chunk_chars": 1044
+      }
+    ],
+    "output_file": "sec_10k_chunks/alphabet_chunks.jsonl"
+  },
+  {
+    "company": "microsoft",
+    "n_chunks": 78,
+    "sections": [
+      {
+        "section": "item_1_business",
+        "n_chunks": 40,
+        "n_subsections": 34,
+        "avg_chunk_chars": 1189
+      },
+      {
+        "section": "item_7_mdna",
+        "n_chunks": 38,
+        "n_subsections": 30,
+        "avg_chunk_chars": 1247
+      }
+    ],
+    "output_file": "sec_10k_chunks/microsoft_chunks.jsonl"
+  },
+  {
+    "company": "nvidia",
+    "n_chunks": 51,
+    "sections": [
+      {
+        "section": "item_1_business",
+        "n_chunks": 26,
+        "n_subsections": 14,
+        "avg_chunk_chars": 1529
+      },
+      {
+        "section": "item_7_mdna",
+        "n_chunks": 25,
+        "n_subsections": 19,
+        "avg_chunk_chars": 1356
+      }
+    ],
+    "output_file": "sec_10k_chunks/nvidia_chunks.jsonl"
+  }
+]
